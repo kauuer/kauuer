@@ -1,9 +1,7 @@
-## Hi,  👋
+## Hi, i'm Kauê Rodrigues! 👋
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Software Engineer.
 
 <div>
   <a href="https://github.com/kauuer">
